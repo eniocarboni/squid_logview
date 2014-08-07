@@ -2,9 +2,11 @@ d this file do:
 # $ perldoc README
 
 =head1 NAME
+
 B<squid_logview>
 
 =head1 DESCRIPTION
+
 View default squid access log converting date from secs to a human form
 
 =head1 SYNOPSIS
@@ -16,6 +18,7 @@ B<squid_logview> /var/log/squid/access.log.1.gz
 tail /var/log/squid/access.log | B<squid_logview>
 
 =head1 COPYRIGHT
+
 squid_logview is Copyright (c) 2014 Enio Carboni - Italy
 squid_logview is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -28,5 +31,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with offline. If not, see <http://www.gnu.org/licenses/>.
 =head1 SUPPORT / WARRANTY
+
 The squid_logview is free Open Source software. IT COMES WITHOUT WARRANTY OF ANY KIND.
 
